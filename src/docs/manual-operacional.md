@@ -1,7 +1,7 @@
 # DOCUMENTAÇÃO TÉCNICA: SISTEMA DE HELP DESK (STI-2026)
 
 ## 1. Visão Geral
-O **STI-2026** é uma solução de automação para gestão de chamados técnicos do **SINPEEM**, utilizando a infraestrutura do Google Workspace.
+O **STI-2026** é uma solução de automação para gestão de chamados técnicos, utilizando a infraestrutura do Google Workspace.
 
 ## 2. Arquitetura do Sistema
 * **Interface:** Google Forms.
