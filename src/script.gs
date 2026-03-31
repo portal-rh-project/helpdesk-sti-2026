@@ -17,7 +17,7 @@ function onFormSubmitHelpDesk(e) {
     sheet.getRange(row, 11).setValue(protocolo); 
     sheet.getRange(row, 12).setValue("PENDENTE"); 
 
-    var listaSuporte = "informatica@sinpeem.com.br, suporte@sinpeem.com.br";
+    var listaSuporte = "xxxxxxxx@xxxxxx, xxxxx@xxxxxxxxr";
     var assuntoSuporte = "NOVO CHAMADO TÉCNICO: " + protocolo;
     var corpoSuporte = "Olá,\n\nUm novo chamado foi registrado.\n\n" +
                        "Solicitante: " + nomeColaborador + "\n" +
@@ -34,7 +34,7 @@ function onFormSubmitHelpDesk(e) {
                       "Seu chamado foi aberto com sucesso.\n" +
                       "Protocolo de acompanhamento: " + protocolo + "\n\n" +
                       "Atenciosamente,\n" + 
-                      "Departamento de Tecnologia e Inovação - SINPEEM"; // <-- Escreva sua nova assinatura aqui
+                      "DPI "; // <-- Escreva sua nova assinatura aqui
       // ----------------------------------------------------
 
       MailApp.sendEmail(emailColaborador, assuntoUser, corpoUser);
