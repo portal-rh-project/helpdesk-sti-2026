@@ -1,6 +1,6 @@
 # 🛠️ STI-2026 | Sistema de Help Desk & Auditoria 
 
-Este projeto foi desenvolvido para centralizar, automatizar e profissionalizar o suporte técnico do **SINPEEM**, eliminando processos informais e garantindo a rastreabilidade total de cada chamado.
+Este projeto foi desenvolvido para centralizar, automatizar e profissionalizar o suporte técnico, eliminando processos informais e garantindo a rastreabilidade total de cada chamado.
 
 ## 📈 Problema vs. Solução
 * **Cenário Anterior:** Chamados realizados via telefone ou presencialmente, sem registro, sem histórico de solução e sem número de protocolo.
