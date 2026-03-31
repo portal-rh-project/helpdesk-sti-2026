@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para centralizar, automatizar e profissionalizar o
 
 | Interface do Formulário | Painel de Controle (TI) |
 | :---: | :---: |
-| ![Formulário](formulario.png.jpeg) | ![Planilha](planilha .jpeg) |
+| ![Formulário](formulario.png.jpeg) |  |
 
 ---
 ## 📈 Problema vs. Solução
